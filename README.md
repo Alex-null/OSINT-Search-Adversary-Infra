@@ -22,6 +22,10 @@
 
 - app="RAPID7-insightVM"
 
+#### burpsuite
+
+- app="PortSwigger-Burp-Suite"
+
 #### COBALTSTRIKE
 
 - app="COBALTSTRIKE-beacon"
@@ -41,6 +45,10 @@
 #### DNSLOG
 
 - app="DNSLog-Platform-Golang"
+
+#### Burp-Collaborator
+
+- app="Burp-Collaborator"
 
 ## Adversary Infrastructure on [Hunter](https://hunter.qianxin.com/)
 
