@@ -9,12 +9,10 @@
 #### AWVS
 
 - app="Invicti-AWVS"
-- title="Acunetix"
 
 #### Nessus
 
 - app="tenable-Nessus"
-- title="Nessus"
 
 #### NSFOCUS-RSAS
 
@@ -23,7 +21,6 @@
 #### InsightVM
 
 - app="RAPID7-insightVM"
-- icon_hash="-516760689"
 
 #### COBALTSTRIKE
 
