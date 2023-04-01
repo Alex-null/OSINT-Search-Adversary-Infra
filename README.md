@@ -53,6 +53,9 @@
 #### Xray反连平台
 - app="XRAY-Cland-Beta"
 
+#### Interactsh HTTP Server
+- body="https://github.com/projectdiscovery/interactsh"
+
 ## Adversary Infrastructure on [Hunter](https://hunter.qianxin.com/)
 
 #### 脆弱性评估系统
