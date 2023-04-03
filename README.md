@@ -45,6 +45,7 @@
 #### DNSLOG
 
 - app="DNSLog-Platform-Golang"
+- title="dnslog"
 
 #### Burp-Collaborator
 
